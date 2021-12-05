@@ -1,8 +1,14 @@
-# KABAN-LIKE BOARD USING VUEJS AND TAILWINDCSS
+# DISGUISE-ONE KABAN BOARD USING VUEJS AND TAILWINDCSS
 
 ## Project setup
 ```
 npm install
+```
+
+
+## Project setup
+```
+W install
 ```
 
 ### Compiles and hot-reloads for development
